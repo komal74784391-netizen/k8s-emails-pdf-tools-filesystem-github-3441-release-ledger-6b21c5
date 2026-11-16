@@ -1,0 +1,8 @@
+schema: release-ledger/v1
+team: orbital-analytics
+workload: matrix-sifter
+namespace: orbital-analytics
+release: "2026-09-17T00:45:00-07:00"
+channel: stable
+owner: Dario Wexler
+status: active
