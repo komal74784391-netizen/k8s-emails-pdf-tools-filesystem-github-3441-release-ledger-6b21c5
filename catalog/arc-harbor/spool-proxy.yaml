@@ -1,8 +1,0 @@
-schema: release-ledger/v1
-team: arc-harbor
-workload: spool-proxy
-namespace: arc-harbor
-release: "2026-09-16T03:45:00+05:30"
-channel: stable
-owner: Mirela Apostol
-status: retired
