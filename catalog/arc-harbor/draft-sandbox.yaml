@@ -1,0 +1,8 @@
+schema: release-ledger/v1
+team: arc-harbor
+workload: draft-sandbox
+namespace: arc-harbor
+release: "2026-08-20T07:15:00Z"
+channel: canary
+owner: Mirela Apostol
+status: active
