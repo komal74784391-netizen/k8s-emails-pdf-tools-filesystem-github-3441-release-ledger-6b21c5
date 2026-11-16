@@ -5,4 +5,4 @@ namespace: arc-harbor
 release: "2026-09-16T03:45:00+05:30"
 channel: stable
 owner: Mirela Apostol
-status: active
+status: retired
