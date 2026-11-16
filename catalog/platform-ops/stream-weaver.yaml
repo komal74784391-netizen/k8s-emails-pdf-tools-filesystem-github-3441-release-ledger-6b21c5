@@ -1,0 +1,8 @@
+schema: release-ledger/v1
+team: platform-ops
+workload: stream-weaver
+namespace: platform-ops
+release: "2026-09-17T01:15:00Z"
+channel: stable
+owner: Tobias Renn
+status: active
