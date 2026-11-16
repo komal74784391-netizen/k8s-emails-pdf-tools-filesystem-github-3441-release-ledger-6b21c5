@@ -1,0 +1,8 @@
+schema: release-ledger/v1
+team: nimbus-edge
+workload: beacon-relay
+namespace: nimbus-edge
+release: "2026-08-04T20:15:00-07:00"
+channel: stable
+owner: Ingrid Salcedo
+status: active
