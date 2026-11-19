@@ -5,4 +5,4 @@ namespace: platform-ops
 release: "2026-09-17T01:15:00Z"
 channel: stable
 owner: Tobias Renn
-status: active
+status: retired
