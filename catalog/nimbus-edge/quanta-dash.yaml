@@ -1,0 +1,8 @@
+schema: release-ledger/v1
+team: nimbus-edge
+workload: quanta-dash
+namespace: nimbus-edge
+release: "2026-07-18T09:30:00+05:30"
+channel: stable
+owner: Ingrid Salcedo
+status: retired
