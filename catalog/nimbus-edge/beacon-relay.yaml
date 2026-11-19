@@ -5,4 +5,4 @@ namespace: nimbus-edge
 release: "2026-08-04T20:15:00-07:00"
 channel: stable
 owner: Ingrid Salcedo
-status: active
+status: retired
